@@ -9,7 +9,7 @@ Ce programme permet de construire un triangle de Sierpinski.
 ## Usage
 
 <pre>
-python sierpinski_triangle.py 5 10
+python sierpinski_triangle.py [ITERATIONS] [DELAY]
 </pre>
 
 ## Auteur
